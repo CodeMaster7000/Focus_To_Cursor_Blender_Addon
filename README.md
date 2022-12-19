@@ -1,8 +1,8 @@
-# Focus to Cursor (Blender Addon)
+# Focus to Cursor (Blender add-on)
 
 ## About
 
-A Blender Addon that sets the focal point of the active camera to the 3D cursor.
+A Blender add-on that sets the focal point of the active camera to the 3D cursor.
 
 ## Prerequisites
 
